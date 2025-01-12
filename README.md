@@ -1,4 +1,4 @@
-# Speech-Translation-App
+# SpeechVerse
 A real-time speech translation app built with Azure Cognitive Services and Streamlit. Speak in English and get instant translations in French, Spanish, or Hindi, with speech synthesis and transliteration for Hindi.
 # Features
 Speech-to-Text: Captures English speech in real-time.
